@@ -1,0 +1,16 @@
+timberlake {~} > submit_cse574 proj4.pdf
+Submission of "proj4.pdf" successful.
+timberlake {~} > time
+0.072u 0.039s 0:40.43 0.2%	0+0k 2960+0io 0pf+0w
+timberlake {~} > whoami
+shivrajd
+timberlake {~} >
+
+
+timberlake {~} > submit_cse574 proj4code.zip 
+Submission of "proj4code.zip" successful.
+timberlake {~} > time 
+0.091u 1.101s 10:59.37 0.1%	0+0k 1128248+0io 0pf+0w
+timberlake {~} > whoami
+shivrajd
+timberlake {~} > 
